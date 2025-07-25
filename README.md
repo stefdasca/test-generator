@@ -5,6 +5,7 @@ We have attached as an example one of the problems generated using our method:
 You must compile the generator and the model code as follows:
 
 Generator: g++ -std=gnu++17 -O2 -o generator.exe generator.cpp
+
 Source code: g++ solution.cpp -o solution.exe
 
 In the helpers you have the batch scripts we used during our work.
